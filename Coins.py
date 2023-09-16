@@ -13,6 +13,11 @@ The only line of the input contains two integers n and S (1 ≤ n ≤ 100000, 1 
 Output
 Print exactly one integer — the minimum number of coins required to obtain sum S.
 
+Input:
+5 11
+
+Output:
+3
 """
 n, s = map(int, input().split())
 founded = False
