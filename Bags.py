@@ -1,4 +1,6 @@
 """
+------- Link for the challenge: https://codeforces.com/problemset/problem/1230/A ---------
+
 Dawid has four bags of candies. The i-th of them contains a(i) candies. 
 Also, Dawid has two friends. He wants to give each bag to one of his two friends. 
 Is it possible to distribute the bags in such a way that each friend receives the same amount of candies in total?
